@@ -1,5 +1,7 @@
-Equipe: 
-[Joceir Chaves](https://github.com/Joceir) 
+Equipe:
+ 
+[Joceir Chaves](https://github.com/Joceir)
+ 
 [Jose Rodrigues](https://github.com/jrodrigues1977)
 
 Trabalhos desenvolvidos:
@@ -8,8 +10,8 @@ Trabalhos desenvolvidos:
 
 2- As 1500 palavras comuns em dois livros - Alice.txt e Flatland.txt
 
-3- Traducao artigo Big Data
+3- Tradução artigo Big Data
 
-Linguagem utilizadas:
+Linguagens utilizadas:
 
 Shell Script para tratar textos html e Pig latin
